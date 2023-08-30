@@ -1,0 +1,11 @@
+{
+    "id":"TLION_cryomath",
+	"name":"Better Cryoarithmetic Engine",
+	"author":"TungstenLION",
+    "utility":"false",
+	"version":"1.0.0",
+	"description":"Orbital Fusion Lamp, but cold.",
+    "gameVersion": "0.96a-RC10",
+  	"jars":["jars/cryoMath.jar"],
+	"modPlugin":"data.cryoMath"
+}

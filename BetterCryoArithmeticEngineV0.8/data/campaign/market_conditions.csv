@@ -1,0 +1,3 @@
+name,id,planetary,decivRemove,script,desc,icon,order
+Cryoarithmetic Engine,TL_cryoMathHazHot,true,,data.TL_cryoMathHazHot,Increases size of fleets launched by colony by 25% for hot worlds and by 100% for worlds with extreme heat. Also counters the effects of high temperatures.,data/graphics/cryoarithmetic_engine.png,1
+Cryoarithmetic Engine,TL_cryoMathHazVeryHot,true,,data.TL_cryoMathHazVeryHot,Increases size of fleets launched by colony by 25% for hot worlds and by 100% for worlds with extreme heat. Also counters the effects of high temperatures.,data/graphics/cryoarithmetic_engine.png,10
